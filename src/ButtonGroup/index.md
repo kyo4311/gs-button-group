@@ -4,13 +4,10 @@ nav:
   path: /components
 ---
 
-## Foo
+# ButtonGroup
 
-Demo:
+## Demo:
 
-```tsx
-import React from 'react';
-import { ButtonGroup } from '@gs/button-group';
+<code src="./doc/001">
 
-export default () => <ButtonGroup title="First Demo" />;
-```
+<!-- <code src="./doc/002"> -->
